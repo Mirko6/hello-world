@@ -4,6 +4,6 @@ just a trial
 
 I have discovered America :D
 
-Are you good?
+Samko is bad!
 
-No I'm not :D
+Yes you are :D
