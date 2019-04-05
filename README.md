@@ -3,6 +3,7 @@ just a trial
 
 
 I have discovered America :D
-Are you Kolembus?
-/n
+
+Are you good?
+
 No I'm not :D
