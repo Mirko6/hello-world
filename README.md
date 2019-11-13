@@ -1,4 +1,4 @@
-# 5 in a row AI
+# 5-in-a-row AI
 
 Hey guys,
 
