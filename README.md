@@ -1,9 +1,5 @@
-# hello-world
-just a trial
+# 5 in a row AI
 
-trtet
-I have discovered America :D
+Hey guys,
 
-Samko is bad!
-tralalala
-Yes you are :D
+This is our attempt to learn something about AI.
